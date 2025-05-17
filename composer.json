@@ -1,0 +1,5 @@
+{
+	"require": {
+		"topvisor/topvisor-sdk": "v2.6"
+	}
+}
